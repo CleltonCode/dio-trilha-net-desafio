@@ -16,10 +16,10 @@ Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela exp
  - Ferramentas de Desenvolvimento (IDE)
 
 <h2>Contexto</h2>
- - Você foi contratado para construir um sistema para um estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações, como por exemplo adicionar um veículo, remover um veículo (e exibir o valor cobrado durante o período) e listar os veículos.
+Você foi contratado para construir um sistema para um estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações, como por exemplo adicionar um veículo, remover um veículo (e exibir o valor cobrado durante o período) e listar os veículos.
 
 <h2>Proposta</h2>
- - Você precisará construir uma classe chamada "Estacionamento", conforme o diagrama abaixo: Diagrama de classe estacionamento
+ Você precisará construir uma classe chamada "Estacionamento", conforme o diagrama abaixo: Diagrama de classe estacionamento
 
 <h2>A classe contém três variáveis, sendo:</h2>
 
@@ -45,4 +45,4 @@ Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela exp
  - Encerrar
    
 <h2>Solução</h2>
- - O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
